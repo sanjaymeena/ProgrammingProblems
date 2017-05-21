@@ -1,12 +1,12 @@
 /**
  * 
  */
-package trees;
+package codingquestions.trees;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
-import trees.TreeTraversal.Node;
+import codingquestions.trees.TreeTraversal.Node;
 
 /**
  * @author Sanjay

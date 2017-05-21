@@ -1,7 +1,7 @@
 /**
  * 
  */
-package trees;
+package codingquestions.trees;
 
 /**
  * @author Sanjay

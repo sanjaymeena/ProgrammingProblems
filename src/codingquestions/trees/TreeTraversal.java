@@ -1,4 +1,4 @@
-package trees;
+package codingquestions.trees;
 import java.util.*;
  
 public class TreeTraversal {
