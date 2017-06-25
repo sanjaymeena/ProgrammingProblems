@@ -1,3 +1,4 @@
+package codingquestions.others;
 /**
  * 
  */
@@ -6,9 +7,9 @@
  * @author sanjay
  * 
  *         There are three threads in a process. The first thread prints 1 1 1
- *         …, the second one prints 2 2 2 …, and the third one prints 3 3 3 …
+ *         ï¿½, the second one prints 2 2 2 ï¿½, and the third one prints 3 3 3 ï¿½
  *         endlessly. How do you schedule these three threads in order to print
- *         1 2 3 1 2 3 …?
+ *         1 2 3 1 2 3 ï¿½?
  */
 public class Scheduler {
 	public class SimpleThread extends Thread {

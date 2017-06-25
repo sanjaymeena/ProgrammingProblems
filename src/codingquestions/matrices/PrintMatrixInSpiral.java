@@ -1,4 +1,4 @@
-package condingquestions.matrices;
+package codingquestions.matrices;
 
 public class PrintMatrixInSpiral {
 

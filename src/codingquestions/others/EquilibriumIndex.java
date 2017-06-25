@@ -1,3 +1,4 @@
+package codingquestions.others;
 /**
  * 
  */
@@ -49,7 +50,7 @@
  * 
  *         expected worst-case time complexity is O(N); expected worst-case
  *         space complexity is O(N), beyond input storage (not counting the
- *         storage required for input arguments). Elements of input condingquestions.arrays can
+ *         storage required for input arguments). Elements of input codingquestions.arrays can
  *         be modified.
  */
 public class EquilibriumIndex {

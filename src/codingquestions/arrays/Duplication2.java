@@ -1,4 +1,4 @@
-package condingquestions.arrays;
+package codingquestions.arrays;
 
 /**
  * 

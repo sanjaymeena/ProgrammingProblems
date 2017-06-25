@@ -1,3 +1,4 @@
+package codingquestions.others;
 
 public class Palindrome {
 
